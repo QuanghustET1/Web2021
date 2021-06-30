@@ -1,0 +1,82 @@
+.top{
+    text-align: center;
+}
+img{
+    
+    right: 326px;
+    height: 385px;
+}
+.row.padding-16{
+    width: 100%;
+    display: flex;
+}
+.item{
+    box-shadow: 6px 6px 6px #888;
+    margin: 10px;
+    text-align: center;
+    width: 20%;
+    height: 10%;
+    display: block;
+}
+.item1{
+    box-shadow: 6px 6px 6px #888;
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 100px;
+    margin-bottom: 10px;
+    max-width: 100%;
+    width: 20%;
+    height: 10%;
+    display: block;
+}
+.item2{
+    box-shadow: 6px 6px 6px #888;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 100px;
+    max-width: 100%;
+    width: 20%;
+    height: 10%;
+    display: block;
+}
+h3{
+    margin: 5px 0px;
+    text-align: center;
+    width: 100%;
+    float: right;
+}
+.h3{
+    text-align: left;
+}
+img.w3-image{
+    box-shadow: 6px 6px 6px #888;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h4, h6{
+    text-align: center;
+}
+.about row center padding-32{
+    text-align: center;
+    display: flex;
+}
+.p{
+    text-align: center;
+}
+.third{
+    display: block;
+    float: left;
+    width: 30%;
+    margin: 20px;
+}
+* {
+    font-family: "Karma", sans-serif;
+}
+
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+}
